@@ -16,3 +16,6 @@ https://github.com/OJ/gobuster
 ```
 go install github.com/OJ/gobuster/v3@latest
 ```
+
+## PayloadAllTheThings
+https://github.com/swisskyrepo/PayloadsAllTheThings
