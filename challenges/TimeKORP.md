@@ -37,6 +37,8 @@ class TimeModel
 # Copy flag
 COPY flag /flag
 ```
+
+### Solution
 * Executing URL/?format=%27;%20cat%20flag%27 prints the flag.
 <img width="671" alt="image" src="https://github.com/user-attachments/assets/248637a1-6b05-48a2-b0c6-d65fac7cf09a">
 
