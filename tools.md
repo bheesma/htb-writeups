@@ -9,3 +9,10 @@ pip3 install -r requirements.txt
 
 python3 xsstrike.py -u URL
 ```
+
+## GoBuster
+https://github.com/OJ/gobuster
+
+```
+go install github.com/OJ/gobuster/v3@latest
+```
